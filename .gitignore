@@ -1,0 +1,5 @@
+# Godot cache (regenerated on import)
+.godot/
+# Web export (large; rebuild with export preset "Web")
+output/web/
+*.tmp
